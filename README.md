@@ -15,3 +15,10 @@
 2. we check if the user is in our db
 3. we would generate an otp
 4. we would send an email. (pend)
+
+## For Login
+1. we take the users email
+2. we check if the user is in our db
+3. we would check if the otp is correct
+4. we would generate a token
+5. we would send an email. (pend)
